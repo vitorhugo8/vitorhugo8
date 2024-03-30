@@ -1,5 +1,7 @@
 - 👋 Olá! eu sou o Vitor Hugo e sou estudante de Ciência da Computação desde 2023. Estou no GitHub para aprender cada dia mais, e me aperfeiçoar na programação
-- 🌱 Eu quero me tornar um programador Back-end, especializado na linguagem Python, até eu conseguir isso pretendo guardar meus conecimentos por aqui. 
+  
+- 🌱 Eu quero me tornar um programador Back-end, especializado na linguagem Python, até eu conseguir isso pretendo guardar meus conecimentos por aqui.  
+ 
 - 📫 Para entrar em contato: vitorfernandes7501@gmail.com
 
 <!---
