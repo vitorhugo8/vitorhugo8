@@ -4,5 +4,5 @@
 
 - 🖥️ Sou estudante de Ciência da Computação
 - 🌱 Estou aprendendo desenvolvimento Back-end com Python e PHP
-- 📬 Contate-me em: vitorfernandes7501@gmail.com
+
 
